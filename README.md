@@ -1,3 +1,3 @@
-# git-demo
+## git-demo
 
 This is a demo for git.
